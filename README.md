@@ -27,5 +27,6 @@ src/
  ├── main.jsx
  ├── components/
  └── styles/
-```
-![Screenshot](./src/assets/image.png)
+
+<img width="1262" height="611" alt="Screenshot 2026-05-19 at 13 07 45" src="https://github.com/user-attachments/assets/33b8d525-9151-4b50-88ad-3a4d6e5efd92" />
+
