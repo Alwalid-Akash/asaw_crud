@@ -28,14 +28,4 @@ src/
  ├── components/
  └── styles/
 ```
-
----
-<img width="1262" height="611" alt="Screenshot 2026-05-19 at 13 07 45" src="https://github.com/user-attachments/assets/ee3eab6c-097a-4fd9-ad12-19826a187b8a" />
-
-
-
----
-
-## Author
-
-Your Name
+![Screenshot](./src/assets/image.png)
